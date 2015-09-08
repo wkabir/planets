@@ -1,7 +1,8 @@
-i love maro
+##properties
+mars
 it is an awesome place 
 the 2 moons may be a problem for wolfman. The moons are really small.
-
+proper
 
 
 
